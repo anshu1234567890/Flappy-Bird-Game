@@ -1,1 +1,1 @@
-# Flappy-Bird-Game
+pip install pygame
